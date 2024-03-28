@@ -1,12 +1,12 @@
 # Data-Analyst-Portfolio
 
-##About
+# About
 
 Hello welcome! I am an aspring Data Analyst who loves to tell stories with data. I am an avid learner excited to progress in my career and gain more experience. Feel free to explore my portfolio and view my growth as a Data Analyst! :) 
 
-###Titanic Logistic Regression Model 
-[Titanic Dataset Iterative Imputation for Missing Values]
-(https://github.com/america-m/Projects/blob/3312ded8b68388be6c92d1145e131ecde0e4f64f/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb)
+### Titanic Logistic Regression Model 
+[Titanic Dataset Iterative Imputation for Missing Values
+](https://github.com/america-m/Projects/blob/3312ded8b68388be6c92d1145e131ecde0e4f64f/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb)
 
 **Skills:** Pandas, Numpy, Scikit-learn, Seaborn, NumPy, Matplotlib
 
