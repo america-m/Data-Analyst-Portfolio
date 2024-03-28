@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-# About
+## About
 
 Hello welcome! I am an aspring Data Analyst who loves to tell stories with data. I am an avid learner excited to progress in my career and gain more experience. Feel free to explore my portfolio and view my growth as a Data Analyst! :) 
 
@@ -8,7 +8,7 @@ Hello welcome! I am an aspring Data Analyst who loves to tell stories with data.
 [Titanic Dataset Iterative Imputation for Missing Values
 ](https://github.com/america-m/Projects/blob/3312ded8b68388be6c92d1145e131ecde0e4f64f/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb)
 
-**Skills:** Pandas, Numpy, Scikit-learn, Seaborn, NumPy, Matplotlib
+**Skills:** Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib
 
 On April 15, 1912, the infamous Titanic Ocean liner on a voyage to New York City struck an
 iceberg and sank in the middle of the North Atlantic Ocean. There were an estimated 2,200 passengers and crew on board; about 1,500 people died. The ship was only equipped with 20 lifeboats despite the capacity of 48.The impact of the Titanic shipwreck is still felt worldwide. The Titanic spurred major changes to maritime safety regulations along with inspiring many stories and movies to remember the catastrophic event in 1912 and to honor all the lives lost that night.
