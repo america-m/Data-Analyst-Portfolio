@@ -6,7 +6,7 @@ Hello welcome! I am an aspring Data Analyst who loves to tell stories with data.
 
 ### Titanic Logistic Regression Model 
 [Titanic Dataset Iterative Imputation for Missing Values
-](https://github.com/america-m/Projects/blob/3312ded8b68388be6c92d1145e131ecde0e4f64f/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb)
+](https://github.com/america-m/Data-Analyst-Portfolio/blob/89845e828f7226398ab6035815dcd6f043a704e0/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb) 
 
 **Skills:** Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib
 
