@@ -1,8 +1,3 @@
-#America Munoz
-#CSS 220 Final Project
-#Dr. Tovar
-#March 24, 2024
-
 
 import random
 import time
