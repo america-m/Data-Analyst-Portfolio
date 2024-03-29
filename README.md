@@ -16,6 +16,8 @@ iceberg and sank in the middle of the North Atlantic Ocean. There were an estima
 The purpose of this project was to build a Logistic Regression Model that would predict if a passenger survived the Titanic shipwreck. The datasets consists of record data separated by files: train, test, and gender submission. This includes data on the passengers such as name, sex, age, fare, port of embarkation, siblings on board, number of parents/children on board, cabin, ticket number, and if the passenger survived. The project first involved data preprocessing as there was an extensive amount of missing data for passengers under the 'Age' column, to combat this a multivariate approach was taken. Using Scikit-learn mutivariate imputer, a Linear Regression algorithm was applied that would uses the entire set of available features to estimate a missing value. After the data was imputed using the iterative imputation method or fill in approach with the mean, a Logistic Regression algorithm was then used to predict if a passenger survived the Titanic ship wreck
 
 ### Rock Paper Scissors Game 
+[Rock Paper Scissors Game
+](https://github.com/america-m/Data-Analyst-Portfolio/blob/aa0683031de9bdab6d6b364f64d4390c3bbe58b8/Python/Rock%20Paper%20Scissors%20Game.py)
 
 **Skills:** Random Library, Time Library, Functions, Global Variables, Counter, Looping 
 
