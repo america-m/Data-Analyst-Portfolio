@@ -17,8 +17,7 @@ The purpose of this project was to build a Logistic Regression Model that would 
 
 ### Restaurant Menu Management System 
 
-[Restaurant Menu]
-(https://github.com/america-m/Data-Analyst-Portfolio/tree/79fd81e02c92a244b07c7cf41c777186457beb1a/Java/Restaurant%20Menu)
+[Restaurant Menu](https://github.com/america-m/Data-Analyst-Portfolio/tree/79fd81e02c92a244b07c7cf41c777186457beb1a/Java/Restaurant%20Menu)
 
 **Language** Java 
 **Skills** Application of methods, 2D Array's, Inhertiance, Exception Catching 
