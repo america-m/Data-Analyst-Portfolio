@@ -20,7 +20,7 @@ The purpose of this project was to build a Logistic Regression Model that would 
 [Bakery Sales March 2020
 ](https://github.com/america-m/Data-Analyst-Portfolio/tree/79e224396d9db6c6b0cc7d029b6c076091346ead/Excel)
 
-**Excel** **Skills:** XLOOKUP, IF Function, MAXIFS, SUMIFS, SUM Function, Conditional Formatting 
+**Application:** Excel **Skills:** XLOOKUP, IF Function, MAXIFS, SUMIFS, SUM Function, Conditional Formatting 
 
 This project features sales data from a Bakery collected in 2020. Excel is a powerful tool with many features that are incredibly useful for data analysis. My purpose for this project was to practice using these Excel tools to fully analyze a dataset. I chose a relatively small dataset to ensure I would effectively view the analysis results. The first step before analyzing the data was making all values consistent. Some rows contained duplicate data, therefore I made sure to remove the unnecessary data to maintain the integrity of the dataset. I proceeded to use a variety of functions Excel provides. To feature the use of the IF function, I created an additional table that would use the "Quantity" sold for each bakery item and set it to a limit example: IF Quantity < 25 = "Below Sales Goal". This function created a column that would indicate if a sales item was below or above the required criteria - 25. This would be useful if a company wanted to flag down specific days where they did not meet the goals intended for that day. The SUM function is one of the more commonly used functions in Excel and it became very useful for this dataset when calculating the total sold for each bakery item and total revenue. 
 
