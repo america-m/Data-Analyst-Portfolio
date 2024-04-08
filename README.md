@@ -53,9 +53,12 @@ Chapters 3 and 4 are focused on receiving input from the user based on a logical
 **Language:** Python 
 **Skills:** Random Library, Shuffle Method, For Loops, Lists 
 
-The fortune teller game takes the rule of a real-life childhood origami game and creates a versatile version through Python. The game's rules are that the user must first select a color out of the 4 shown, and then the paper is shuffled based on the number of letters of the color chosen. The user then selects a second color and the paper is shuffled a second time based on the total count of the letters in the word. Finally, the user picks a number and the number selected determines their fortune. 
+This project was a fun way to practice commonly used Python techniques while at the same time, bringing back the nostalgic charm of the childhood paper fortune-telling game. Inspired by the classic origami game, it offers a dynamic twist using Python's versatility.
 
-In the real-world game, the fortunes are attached to the number forever. With Python, we can assign a fortune to the position of the list. The list is then shuffled however long the length of the color the user chose. Therefore the number and their assigned fortune will always be different. The user may select the number 5 more than once but the fortune will always change based on the previous choices made by the user. Therefore this fortune teller might actually be predicting your fortune. 
+Here's how it works: the game unfolds with the user's selection of one out of four colors presented. Subsequently, the virtual paper is shuffled, mirroring the chosen color's letter count. Then, another color is chosen, and the paper undergoes a second shuffle based on the total letter count of both colors combined. Finally, the user picks a number, which unveils their fortune.
+
+Unlike the traditional paper game, where the fortunes are permanently attached to numbers, Python allows us to assign fortunes dynamically. Each time the user makes a choice, the fortunes are shuffled accordingly, ensuring a fresh experience every time. Even if the user chooses the same number repeatedly, the fortune will always be different, adapting to the user's previous choices made. As the position of the fortune is always changing.  In essence, this Python fortune teller version adds a playful touch to the game, making it feel like your destiny is truly in the hands of code. 
+
 
 ### Rock Paper Scissors Game 
 [Rock Paper Scissors Game
@@ -64,7 +67,11 @@ In the real-world game, the fortunes are attached to the number forever. With Py
 **Language:** Python 
 **Skills:** Random Library, Time Library, Functions, Global Variables, Counter, Looping 
 
-This game was created to practice and apply Python. This Python game features an intransitive hand game typically played between two players. While applying the same rules in the real-life game where Rock smashes Scissors, so Rock wins, Scissors cut Paper, so Scissors win, and Paper covers Rock, so Paper wins. The first five values selected from the computer are random both computer and player inputs are captured each round. After the first five values, the computer finds the most frequently selected choice by the user and plays the most likely to win the game. This is to ensure the game is competitive for the user. The user is asked after every round if they want to keep playing, the game will loop to the beginning if the user decides to keep playing. When the player quits the game, the total rounds played, wins by computers and users, tied rounds, and user/computer history is displayed. 
+This Python game was crafted as a practical exercise to hone my Python skills while at the same time offering an engaging gameplay experience. It's based on the classic intransitive hand game commonly played between two individuals. Just like its real-life counterpart: Rock triumphs over Scissors, Scissors defeat Paper, and Paper outwits Rock, this version adheres to the same rules. 
+In each round, both the computer and the player make random selections for the first five turns. Subsequently, the computer analyzes these initial choices and identifies the most frequently selected option by the player. Armed with this insight, it strategically decides its subsequent moves to maximize competitiveness, ensuring an engaging experience for the player.
+
+After each round, the player is prompted to decide whether to continue playing or exit the game. If they opt to continue, the game seamlessly loops back to the beginning, ready for another round. Upon choosing to exit the game, a comprehensive summary is displayed, showcasing total rounds played, victories achieved by both the computer and the player, tied rounds, and a detailed history of player and computer choices throughout the game. This version of the game provides an intellectual and intriguing challenge for the player. 
+
 
 
 
