@@ -9,7 +9,7 @@ Hello welcome! I am an aspring Data Analyst who loves to tell stories with data.
 ](https://github.com/america-m/Data-Analyst-Portfolio/blob/89845e828f7226398ab6035815dcd6f043a704e0/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb)
 
 **Language:** Python 
-**Skills:** Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib
+**Skills:** Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib, Visualizations
 
 On April 15, 1912, the infamous Titanic Ocean liner on a voyage to New York City struck an iceberg and sank in the middle of the North Atlantic Ocean. There were an estimated 2,200 passengers and crew on board; about 1,500 people died. The ship was equipped with 20 lifeboats despite the capacity of 48. The catastrophe spurred major changes to maritime safety regulations serving as a reminder of the human cost of negligence at sea.
 
@@ -32,6 +32,20 @@ The SUM function was my go-to for tallying up total sales and revenue for each b
 To identify peak sales days, I turned to the XLOOKUP function, which streamlined the process, especially useful for larger datasets. Additionally, the SUMIFS function made it easy to calculate total quantity and revenue for each day.
 
 After crunching the numbers, I visualized the data using tables and charts to present the results clearly. Through this project, I not only polished my Excel skills but also gained deeper insight into working with sales data.  
+
+### Superstore Data 
+
+[Data Exploration of Superstore Sales](https://github.com/america-m/Data-Analyst-Portfolio/tree/259d3e025f5dfe211437541c64a881c8b34dd912/Python/Superstore%20Sales%20) 
+
+**Language:** Python 
+**Skills:** Scikit-learn, Matplotlib, Pandas, Visualizations, formatStyle, Summary Statistics
+
+This project provides an excellent opportunity to refine exploration and data cleaning techniques while utilizing Google Colab, a powerful platform for collaborative coding. Initially, the focus is on thoroughly exploring the dataset's intricacies, leveraging libraries like Scikit-learn and Matplotlib to generate summary statistics, visualize distributions, and identify outliers. This process not only ensures familiarity with the data but also visualizes a roadmap to fully leverage the dataset's capabilities.
+
+During the data cleaning phase, special attention is given to refining the dataset by removing unnecessary columns such as "Customer Name" and "Product Name." Additionally, ensuring data consistency and clarity is crucial. Therefore, formatting the date columns in the standard US format (month, day, year) is essential. This meticulous preparation establishes data consistency, aligning it with the analysis objectives, laying a solid foundation for subsequent analysis and modeling endeavors.
+
+The combined efforts of data exploration and cleaning lead to a comprehensive understanding of the dataset's structure, facilitating the identification of relevant patterns and ensuring data quality. This groundwork is pivotal as it sets the stage for various analytical tasks, including model application, dashboard visualization, and decision-making processes. Each step in this process significantly contributes to enhancing comprehension insights gleaned from the data.
+
 
 ### Restaurant Menu Management System 
 
