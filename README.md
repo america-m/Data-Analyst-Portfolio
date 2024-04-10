@@ -17,6 +17,19 @@ The aim of this project was to construct a Logistic Regression Model capable of 
 
 To tackle the challenge of missing data, particularly in the 'Age' column, a multivariate approach was adopted. Leveraging Scikit-learn's multivariate imputer, a Linear Regression algorithm was employed to estimate missing values by leveraging the entire set of available features. Subsequently, a Logistic Regression algorithm was deployed to predict passenger survival based on the imputed dataset. Through this analytical endeavor, the project seeks to shed light on the factors influencing survival outcomes in one of history's most infamous maritime disasters.
 
+### Superstore Data 
+
+[Data Exploration of Superstore Sales](https://github.com/america-m/Data-Analyst-Portfolio/tree/259d3e025f5dfe211437541c64a881c8b34dd912/Python/Superstore%20Sales%20) 
+
+**Language:** Python 
+**Skills:** Scikit-learn, Matplotlib, Pandas, Visualizations, formatStyle, Summary Statistics
+
+This project provides an excellent opportunity to refine exploration and data cleaning techniques while utilizing Google Colab, a powerful platform for collaborative coding. Initially, the focus is on thoroughly exploring the dataset's intricacies, leveraging libraries like Scikit-learn and Matplotlib to generate summary statistics, visualize distributions, and identify outliers. This process not only ensures familiarity with the data but also visualizes a roadmap to fully leverage the dataset's capabilities.
+
+During the data cleaning phase, special attention is given to refining the dataset by removing unnecessary columns such as "Customer Name" and "Product Name." Additionally, ensuring data consistency and clarity is crucial. Therefore, formatting the date columns in the standard US format (month, day, year) is essential. This meticulous preparation establishes data consistency, aligning it with the analysis objectives, laying a solid foundation for subsequent analysis and modeling endeavors.
+
+The combined efforts of data exploration and cleaning lead to a comprehensive understanding of the dataset's structure, facilitating the identification of relevant patterns and ensuring data quality. This groundwork is pivotal as it sets the stage for various analytical tasks, including model application, dashboard visualization, and decision-making processes. Each step in this process significantly contributes to enhancing comprehension insights gleaned from the data.
+
 ### Bakery Sales March 2020
 
 [Bakery Sales March 2020
@@ -32,19 +45,6 @@ The SUM function was my go-to for tallying up total sales and revenue for each b
 To identify peak sales days, I turned to the XLOOKUP function, which streamlined the process, especially useful for larger datasets. Additionally, the SUMIFS function made it easy to calculate total quantity and revenue for each day.
 
 After crunching the numbers, I visualized the data using tables and charts to present the results clearly. Through this project, I not only polished my Excel skills but also gained deeper insight into working with sales data.  
-
-### Superstore Data 
-
-[Data Exploration of Superstore Sales](https://github.com/america-m/Data-Analyst-Portfolio/tree/259d3e025f5dfe211437541c64a881c8b34dd912/Python/Superstore%20Sales%20) 
-
-**Language:** Python 
-**Skills:** Scikit-learn, Matplotlib, Pandas, Visualizations, formatStyle, Summary Statistics
-
-This project provides an excellent opportunity to refine exploration and data cleaning techniques while utilizing Google Colab, a powerful platform for collaborative coding. Initially, the focus is on thoroughly exploring the dataset's intricacies, leveraging libraries like Scikit-learn and Matplotlib to generate summary statistics, visualize distributions, and identify outliers. This process not only ensures familiarity with the data but also visualizes a roadmap to fully leverage the dataset's capabilities.
-
-During the data cleaning phase, special attention is given to refining the dataset by removing unnecessary columns such as "Customer Name" and "Product Name." Additionally, ensuring data consistency and clarity is crucial. Therefore, formatting the date columns in the standard US format (month, day, year) is essential. This meticulous preparation establishes data consistency, aligning it with the analysis objectives, laying a solid foundation for subsequent analysis and modeling endeavors.
-
-The combined efforts of data exploration and cleaning lead to a comprehensive understanding of the dataset's structure, facilitating the identification of relevant patterns and ensuring data quality. This groundwork is pivotal as it sets the stage for various analytical tasks, including model application, dashboard visualization, and decision-making processes. Each step in this process significantly contributes to enhancing comprehension insights gleaned from the data.
 
 
 ### Restaurant Menu Management System 
