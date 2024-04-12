@@ -17,9 +17,9 @@ The aim of this project was to construct a Logistic Regression Model capable of 
 
 To tackle the challenge of missing data, particularly in the 'Age' column, a multivariate approach was adopted. Leveraging Scikit-learn's multivariate imputer, a Linear Regression algorithm was employed to estimate missing values by leveraging the entire set of available features. Subsequently, a Logistic Regression algorithm was deployed to predict passenger survival based on the imputed dataset. Through this analytical endeavor, the project seeks to shed light on the factors influencing survival outcomes in one of history's most infamous maritime disasters.
 
-### Superstore Data 
+### Data Exploration and Cleaning of Superstore Data 
 
-[Data Exploration of Superstore Sales](https://github.com/america-m/Data-Analyst-Portfolio/tree/259d3e025f5dfe211437541c64a881c8b34dd912/Python/Superstore%20Sales%20) 
+[Data Exploration and Cleaning of Superstore Sales](https://github.com/america-m/Data-Analyst-Portfolio/tree/259d3e025f5dfe211437541c64a881c8b34dd912/Python/Superstore%20Sales%20) 
 
 **Language:** Python 
 **Skills:** Scikit-learn, Matplotlib, Pandas, Visualizations, formatStyle, Summary Statistics
@@ -30,12 +30,12 @@ During the data cleaning phase, special attention is given to refining the datas
 
 The combined efforts of data exploration and cleaning lead to a comprehensive understanding of the dataset's structure, facilitating the identification of relevant patterns and ensuring data quality. This groundwork is pivotal as it sets the stage for various analytical tasks, including model application, dashboard visualization, and decision-making processes. Each step in this process significantly contributes to enhancing comprehension insights gleaned from the data.
 
-### Bakery Sales March 2020
+### Analysis of Bakery Sales from March 2020
 
 [Bakery Sales March 2020
 ](https://github.com/america-m/Data-Analyst-Portfolio/tree/79e224396d9db6c6b0cc7d029b6c076091346ead/Excel)
 
-**Application:** Excel **Skills:** XLOOKUP, IF Function, MAXIFS, SUMIFS, SUM Function, Conditional Formatting 
+**Tool:** Excel **Skills:** XLOOKUP, IF Function, MAXIFS, SUMIFS, SUM Function, Conditional Formatting 
 
 In this project, I dived into sales data from a bakery collected in 2020, using Excel's robust features for in-depth analysis. My aim was to sharpen my Excel skills by working with a manageable dataset. As such the data preprocessing and visualizations were all done through Excel.
 
@@ -49,7 +49,7 @@ After crunching the numbers, I visualized the data using tables and charts to pr
 
 ### Restaurant Menu Management System 
 
-[Restaurant Menu](https://github.com/america-m/Data-Analyst-Portfolio/tree/79fd81e02c92a244b07c7cf41c777186457beb1a/Java/Restaurant%20Menu)
+[Restaurant Menu Management System](https://github.com/america-m/Data-Analyst-Portfolio/tree/79fd81e02c92a244b07c7cf41c777186457beb1a/Java/Restaurant%20Menu)
 
 **Language:** Java 
 **Skills:** Application of methods, 2D Array's, Inhertiance, Exception Catching 
