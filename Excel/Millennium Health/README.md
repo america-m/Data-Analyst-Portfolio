@@ -39,6 +39,10 @@ Work with a designated team to design a system to support Millenium Health with 
 **Project Deliverables** 
 Provide cost expenses on system requirements and Enitity Relationship Diagram Model that will fit all the needs of the Millennium Health clinic. 
 
+**Sample Gantt Chart** 
+
+<img width="468" alt="Picture1" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/ecfd7569-43a2-430a-ad29-cfdefdfcefb8">
+
 **Business Practices**
 6 Business Practices: 
 
@@ -110,31 +114,6 @@ We will use project management through the chart we already created to organize 
 
 Such as, post project reviews to help determine areas that need improvement, and initiatives that will allow for future improvement. We will also ensure customer satisfaction by meeting goals, requirements, and deadlines that are a part of project management. 
 
-**Expected Costs**
-
-Training - 
-2 week training - $1,071 per employee 
-
-Hardware - 
-$250 average for PC each (Keyboard, monitor and mouse included)
-$130 average cost for router 
-$1000 average cost for a server 
-
-Software - 
-$20,000 for medical software 
-
-Network/Internet - 
-$7,000 for network
-$50 a month for internet 
-
-Firewall - 
-$700 average price per firewall
-
-Software Licensing - 
-$30 monthly cost 
-
-Cloud Services - 
-$1000 average monthly cost for a small business 
 
 **JAD Team**
 
@@ -180,6 +159,32 @@ You can be motivated in different ways starting by success stories and looking f
 
 Survey for JAD Team:
 <img width="589" alt="Screenshot 2024-04-29 at 9 28 14 PM" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/5d318732-7d0c-4e3b-b42f-81aef7134f6e">
+
+**Expected Costs**
+
+Training - 
+2 week training - $1,071 per employee 
+
+Hardware - 
+$250 average for PC each (Keyboard, monitor and mouse included)
+$130 average cost for router 
+$1000 average cost for a server 
+
+Software - 
+$20,000 for medical software 
+
+Network/Internet - 
+$7,000 for network
+$50 a month for internet 
+
+Firewall - 
+$700 average price per firewall
+
+Software Licensing - 
+$30 monthly cost 
+
+Cloud Services - 
+$1000 average monthly cost for a small business 
 
 **ERD Diagram**
 
