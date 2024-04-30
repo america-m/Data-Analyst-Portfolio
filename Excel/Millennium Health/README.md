@@ -82,6 +82,8 @@ Promoting Business
 Believing in Plans
 Phone Calls/Schedule
 
+![unnamed](https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/dccf786c-db71-4052-a028-a2028dd106b9)
+
 **Methodology Utilized**
 
 We are planning to use agile methodology, specifically Scrum. Compared to other methodologies Agile Scrum allows for changes and adjustments throughout the project. It is best practiced when you have a high level of uncertainty in your project. It breaks the project into small and manageable sprints. 
@@ -176,7 +178,14 @@ Working together as a team communicating with each other and building connection
 What motivates you to perform your job to the best of your abilities?
 You can be motivated in different ways starting by success stories and looking for opportunities to make everything your team does become a success. Also motivated to study and to come up with different ideas to help succeed.
 
+<img width="589" alt="Screenshot 2024-04-29 at 9 28 14 PM" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/5d318732-7d0c-4e3b-b42f-81aef7134f6e">
+
 **ERD Diagram**
+
+<img width="1130" alt="Screenshot 2024-04-29 at 9 44 14 PM" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/9d167f27-20e8-44d3-95bd-10c86165d582">
+
+<img width="585" alt="Screenshot 2024-04-29 at 9 30 24 PM" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/9eac12f5-d26f-4f68-be7b-01c3faac1a36">
 
 **Normalized ERD**
 
+<img width="842" alt="Screenshot 2024-04-29 at 9 44 58 PM" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/920d77ee-ffc6-4c79-81fe-a43ee9e7c669">
