@@ -178,6 +178,7 @@ Working together as a team communicating with each other and building connection
 What motivates you to perform your job to the best of your abilities?
 You can be motivated in different ways starting by success stories and looking for opportunities to make everything your team does become a success. Also motivated to study and to come up with different ideas to help succeed.
 
+Survey for JAD Team:
 <img width="589" alt="Screenshot 2024-04-29 at 9 28 14 PM" src="https://github.com/america-m/Data-Analyst-Portfolio/assets/159733163/5d318732-7d0c-4e3b-b42f-81aef7134f6e">
 
 **ERD Diagram**
