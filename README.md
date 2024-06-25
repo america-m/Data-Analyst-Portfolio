@@ -5,6 +5,9 @@
 Hello welcome! I am an aspring Data Analyst who loves to tell stories with data. I am an avid learner excited to progress in my career and gain more experience. Feel free to explore my portfolio and view my growth as a Data Analyst! :) 
 
 ### Superstore Sales Dashboard
+
+[Superstore Sales Dashboard](https://github.com/america-m/Data-Analyst-Portfolio/tree/e22120fa24840501ca769d7beba54c553f728ea6/Power%20BI) 
+
 **Tool:** Power BI 
 **Skills:** Data Visualization, Data Analysis, Data Prepartion, Visual Storytelling
 
