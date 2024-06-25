@@ -6,7 +6,7 @@ Hello welcome! I am an aspring Data Analyst who loves to tell stories with data.
 
 ### Superstore Sales Dashboard
 **Tool:** Power BI 
-**Skills** Data Visualization, Data Analysis, Data Prepartion, Visual Storytelling
+**Skills:** Data Visualization, Data Analysis, Data Prepartion, Visual Storytelling
 
 This interactive dashboard provides insight into key sales data collected from a Superstore in 2020. The audience intended for this dashboard is a higher-up, as the dashboard is easy to navigate and can provide important but general insights on current business processes that could require attention. 
 
