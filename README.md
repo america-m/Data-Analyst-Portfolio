@@ -4,12 +4,24 @@
 
 Hello welcome! I am an aspring Data Analyst who loves to tell stories with data. I am an avid learner excited to progress in my career and gain more experience. Feel free to explore my portfolio and view my growth as a Data Analyst! :) 
 
+### Superstore Sales Dashboard
+**Tool:** Power BI 
+**Skills** Data Visualization, Data Analysis, Data Prepartion, Visual Storytelling
+
+This interactive dashboard provides insight into key sales data collected from a Superstore in 2020. The audience intended for this dashboard is a higher-up, as the dashboard is easy to navigate and can provide important but general insights on current business processes that could require attention. 
+
+The first page of the dashboard provides general insights on the overall sales and profit of the superstore including the total products sold, total orders, and sales per state in the US. When the user selects a state, the bar chart on the left will indicate the total sales per product category and the performance numbers will all represent that selection. With no selection, the visuals will show the overall sales in the US. 
+
+The second page of the dashboard shows the general sales and profit goals and how each sub-category reflects that change. The drop-down at the top of the page allows for easy category filtering. This page is beneficial to narrow in on the best and least-selling products. 
+
+The last page of the dashboard provides information on customer purchases including the customer segments such as if the customer is a general consumer, or is purchasing on behalf of a corporate or home office. The bar on the left shows the total orders by customer, when a customer is selected the chart on the left and the bar on the top will reflect the discounts and sales made. This page will help ensure customer service is top-tier and encourage customers to continue making purchases, in turn increasing customer satisfaction and sales. 
+
 ### Titanic Logistic Regression Model 
 [Titanic Dataset Iterative Imputation for Missing Values
 ](https://github.com/america-m/Data-Analyst-Portfolio/blob/89845e828f7226398ab6035815dcd6f043a704e0/Python/Titanic%20Dataset%20Iterative%20Imputation%20for%20Missing%20Values.ipynb)
 
 **Language:** Python 
-**Skills:** Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib, Visualizations
+**Skills:** Pandas, Scikit-learn, Seaborn, NumPy, Matplotlib, Data Visualization, 
 
 On April 15, 1912, the infamous Titanic Ocean liner on a voyage to New York City struck an iceberg and sank in the middle of the North Atlantic Ocean. There were an estimated 2,200 passengers and crew on board; about 1,500 people died. The ship was equipped with 20 lifeboats despite the capacity of 48. The catastrophe spurred major changes to maritime safety regulations serving as a reminder of the human cost of negligence at sea.
 
